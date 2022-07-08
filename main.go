@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"project1/stringutils"
+
+	"github.com/dinhvuhcmus/learngo/stringutils"
 )
 
 func main() {
